@@ -1892,11 +1892,6 @@
       "path": "data/printed.json",
       "sha256_original": "d3364775bce6b696d63f980a9724a05eb18dca58d642d81fe6c9bbd26bf3c6f0",
       "sha256_release": "d3364775bce6b696d63f980a9724a05eb18dca58d642d81fe6c9bbd26bf3c6f0"
-    },
-    {
-      "path": "docs/architecture.png",
-      "sha256_original": "ddaddc51d0e2f51fc9c51bf2fee0f69b6484d19ef444c6770384d514ae597331",
-      "sha256_release": "ddaddc51d0e2f51fc9c51bf2fee0f69b6484d19ef444c6770384d514ae597331"
     }
   ]
 }

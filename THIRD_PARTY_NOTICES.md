@@ -9,8 +9,7 @@
 - `code/aidgn_official/` contains the source project's archived baseline implementation and local runner. Upstream README and requirements are retained there. Logs, datasets and model weights are excluded.
 - No root LICENSE file was present in the inspected upstream checkout. This repository does not relicense upstream material or grant rights beyond those provided by its owners.
 
-## Dependencies and assets
+## Dependencies
 
 PyTorch, NumPy, pandas, SciPy, scikit-learn, LightGBM, h5py, Numba, Matplotlib and TabPFN retain their respective licenses. TabPFN pretrained weights are obtained separately and are subject to their model terms. C-MAPSS and N-CMAPSS data are not bundled.
 
-The architecture diagram uses measured project arrays for its numerical insets. The turbofan is a generated contextual illustration, not an experimental observation.
