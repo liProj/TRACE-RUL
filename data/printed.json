@@ -1,0 +1,1176 @@
+{
+ "CMAPSS": {
+  "LeNet": {
+   "FD001": {
+    "rmse": 14.12,
+    "rmse_sd": 1.24,
+    "score": 371.25,
+    "score_sd": 31.31
+   },
+   "FD002": {
+    "rmse": 13.25,
+    "rmse_sd": 1.98,
+    "score": 765.59,
+    "score_sd": 43.53
+   },
+   "FD003": {
+    "rmse": 11.98,
+    "rmse_sd": 0.95,
+    "score": 244.26,
+    "score_sd": 41.64
+   },
+   "FD004": {
+    "rmse": 14.98,
+    "rmse_sd": 1.31,
+    "score": 1258.33,
+    "score_sd": 53.27
+   }
+  },
+  "AGCNN": {
+   "FD001": {
+    "rmse": 12.86,
+    "rmse_sd": 1.29,
+    "score": 258.59,
+    "score_sd": 46.73
+   },
+   "FD002": {
+    "rmse": 15.36,
+    "rmse_sd": 2.12,
+    "score": 1142.8,
+    "score_sd": 78.65
+   },
+   "FD003": {
+    "rmse": 11.87,
+    "rmse_sd": 0.38,
+    "score": 241.97,
+    "score_sd": 27.77
+   },
+   "FD004": {
+    "rmse": 18.46,
+    "rmse_sd": 3.85,
+    "score": 1609.08,
+    "score_sd": 275.99
+   }
+  },
+  "LSTM": {
+   "FD001": {
+    "rmse": 13.94,
+    "rmse_sd": 0.99,
+    "score": 390.63,
+    "score_sd": 16.48
+   },
+   "FD002": {
+    "rmse": 12.99,
+    "rmse_sd": 1.02,
+    "score": 748.88,
+    "score_sd": 25.34
+   },
+   "FD003": {
+    "rmse": 12.09,
+    "rmse_sd": 1.02,
+    "score": 328.32,
+    "score_sd": 30.53
+   },
+   "FD004": {
+    "rmse": 13.98,
+    "rmse_sd": 0.45,
+    "score": 861.9,
+    "score_sd": 39.34
+   }
+  },
+  "Transformer": {
+   "FD001": {
+    "rmse": 14.72,
+    "rmse_sd": 1.83,
+    "score": 345.99,
+    "score_sd": 38.46
+   },
+   "FD002": {
+    "rmse": 16.01,
+    "rmse_sd": 3.14,
+    "score": 1264.97,
+    "score_sd": 204.48
+   },
+   "FD003": {
+    "rmse": 13.06,
+    "rmse_sd": 2.36,
+    "score": 321.4,
+    "score_sd": 60.91
+   },
+   "FD004": {
+    "rmse": 18.1,
+    "rmse_sd": 2.5,
+    "score": 1834.81,
+    "score_sd": 319.42
+   }
+  },
+  "AutoFormer": {
+   "FD001": {
+    "rmse": 13.24,
+    "rmse_sd": 1.24,
+    "score": 313.54,
+    "score_sd": 83.22
+   },
+   "FD002": {
+    "rmse": 15.23,
+    "rmse_sd": 4.06,
+    "score": 1403.52,
+    "score_sd": 343.47
+   },
+   "FD003": {
+    "rmse": 13.19,
+    "rmse_sd": 1.4,
+    "score": 324.78,
+    "score_sd": 59.14
+   },
+   "FD004": {
+    "rmse": 18.18,
+    "rmse_sd": 3.31,
+    "score": 2703.56,
+    "score_sd": 340.59
+   }
+  },
+  "PatchTST": {
+   "FD001": {
+    "rmse": 18.11,
+    "rmse_sd": 1.5,
+    "score": 474.75,
+    "score_sd": 39.44
+   },
+   "FD002": {
+    "rmse": 17.62,
+    "rmse_sd": 2.31,
+    "score": 1298.71,
+    "score_sd": 241.35
+   },
+   "FD003": {
+    "rmse": 15.64,
+    "rmse_sd": 1.03,
+    "score": 498.17,
+    "score_sd": 40.08
+   },
+   "FD004": {
+    "rmse": 18.17,
+    "rmse_sd": 2.07,
+    "score": 1701.38,
+    "score_sd": 64.39
+   }
+  },
+  "DA-Transformer": {
+   "FD001": {
+    "rmse": 15.48,
+    "rmse_sd": 1.04,
+    "score": 401.17,
+    "score_sd": 35.23
+   },
+   "FD002": {
+    "rmse": 14.76,
+    "rmse_sd": 2.12,
+    "score": 1102.97,
+    "score_sd": 107.88
+   },
+   "FD003": {
+    "rmse": 14.17,
+    "rmse_sd": 1.64,
+    "score": 503.53,
+    "score_sd": 53.12
+   },
+   "FD004": {
+    "rmse": 17.14,
+    "rmse_sd": 1.33,
+    "score": 1891.9,
+    "score_sd": 297.65
+   }
+  },
+  "PINN": {
+   "FD001": {
+    "rmse": 15.31,
+    "rmse_sd": 4.02,
+    "score": 495.01,
+    "score_sd": 86.04
+   },
+   "FD002": {
+    "rmse": 16.75,
+    "rmse_sd": 4.96,
+    "score": 1556.71,
+    "score_sd": 287.78
+   },
+   "FD003": {
+    "rmse": 17.51,
+    "rmse_sd": 4.17,
+    "score": 918.0,
+    "score_sd": 186.07
+   },
+   "FD004": {
+    "rmse": 20.41,
+    "rmse_sd": 5.54,
+    "score": 1996.35,
+    "score_sd": 512.12
+   }
+  },
+  "Dual-Mixer": {
+   "FD001": {
+    "rmse": 13.14,
+    "rmse_sd": 0.91,
+    "score": 261.78,
+    "score_sd": 26.35
+   },
+   "FD002": {
+    "rmse": 13.72,
+    "rmse_sd": 1.54,
+    "score": 779.77,
+    "score_sd": 68.72
+   },
+   "FD003": {
+    "rmse": 12.37,
+    "rmse_sd": 1.57,
+    "score": 295.52,
+    "score_sd": 30.09
+   },
+   "FD004": {
+    "rmse": 14.83,
+    "rmse_sd": 2.36,
+    "score": 1082.36,
+    "score_sd": 105.67
+   }
+  },
+  "SDAGCNN": {
+   "FD001": {
+    "rmse": 15.03,
+    "rmse_sd": 2.02,
+    "score": 423.56,
+    "score_sd": 36.04
+   },
+   "FD002": {
+    "rmse": 14.02,
+    "rmse_sd": 4.1,
+    "score": 1136.53,
+    "score_sd": 212.78
+   },
+   "FD003": {
+    "rmse": 15.89,
+    "rmse_sd": 2.31,
+    "score": 459.16,
+    "score_sd": 86.07
+   },
+   "FD004": {
+    "rmse": 15.97,
+    "rmse_sd": 4.15,
+    "score": 1046.02,
+    "score_sd": 303.43
+   }
+  },
+  "CDSG": {
+   "FD001": {
+    "rmse": 12.31,
+    "rmse_sd": 1.05,
+    "score": 249.78,
+    "score_sd": 21.0
+   },
+   "FD002": {
+    "rmse": 12.99,
+    "rmse_sd": 3.06,
+    "score": 1074.49,
+    "score_sd": 98.61
+   },
+   "FD003": {
+    "rmse": 12.67,
+    "rmse_sd": 1.35,
+    "score": 388.06,
+    "score_sd": 49.63
+   },
+   "FD004": {
+    "rmse": 13.48,
+    "rmse_sd": 2.19,
+    "score": 1203.43,
+    "score_sd": 189.34
+   }
+  },
+  "FCSTGNN": {
+   "FD001": {
+    "rmse": 11.95,
+    "rmse_sd": 1.22,
+    "score": 274.27,
+    "score_sd": 42.45
+   },
+   "FD002": {
+    "rmse": 13.03,
+    "rmse_sd": 1.15,
+    "score": 795.4,
+    "score_sd": 95.15
+   },
+   "FD003": {
+    "rmse": 11.65,
+    "rmse_sd": 2.04,
+    "score": 251.48,
+    "score_sd": 45.96
+   },
+   "FD004": {
+    "rmse": 14.33,
+    "rmse_sd": 2.03,
+    "score": 898.36,
+    "score_sd": 297.16
+   }
+  },
+  "AIDGN": {
+   "FD001": {
+    "rmse": 11.46,
+    "rmse_sd": 0.83,
+    "score": 248.49,
+    "score_sd": 18.31
+   },
+   "FD002": {
+    "rmse": 12.63,
+    "rmse_sd": 1.46,
+    "score": 663.8,
+    "score_sd": 48.36
+   },
+   "FD003": {
+    "rmse": 10.52,
+    "rmse_sd": 1.27,
+    "score": 202.87,
+    "score_sd": 22.05
+   },
+   "FD004": {
+    "rmse": 13.03,
+    "rmse_sd": 1.98,
+    "score": 762.25,
+    "score_sd": 62.64
+   }
+  }
+ },
+ "NCMAPSS": {
+  "LeNet": {
+   "DS01": {
+    "rmse": 8.28,
+    "rmse_sd": 1.06,
+    "score": 1.34,
+    "score_sd": 1.47
+   },
+   "DS02": {
+    "rmse": 7.29,
+    "rmse_sd": 0.38,
+    "score": 0.96,
+    "score_sd": 0.24
+   },
+   "DS03": {
+    "rmse": 7.73,
+    "rmse_sd": 0.16,
+    "score": 0.8,
+    "score_sd": 0.15
+   },
+   "DS04": {
+    "rmse": 13.69,
+    "rmse_sd": 0.76,
+    "score": 2.89,
+    "score_sd": 0.43
+   },
+   "DS05": {
+    "rmse": 9.02,
+    "rmse_sd": 0.21,
+    "score": 0.99,
+    "score_sd": 0.12
+   },
+   "DS06": {
+    "rmse": 8.13,
+    "rmse_sd": 0.11,
+    "score": 0.86,
+    "score_sd": 0.03
+   },
+   "DS07": {
+    "rmse": 11.15,
+    "rmse_sd": 0.91,
+    "score": 1.33,
+    "score_sd": 0.37
+   },
+   "Avg": {
+    "rmse": 9.33,
+    "rmse_sd": 0.51,
+    "score": 1.31,
+    "score_sd": 0.4
+   }
+  },
+  "AGCNN": {
+   "DS01": {
+    "rmse": 8.02,
+    "rmse_sd": 1.61,
+    "score": 1.07,
+    "score_sd": 0.09
+   },
+   "DS02": {
+    "rmse": 6.31,
+    "rmse_sd": 0.71,
+    "score": 0.74,
+    "score_sd": 0.35
+   },
+   "DS03": {
+    "rmse": 7.94,
+    "rmse_sd": 0.36,
+    "score": 0.91,
+    "score_sd": 0.57
+   },
+   "DS04": {
+    "rmse": 13.57,
+    "rmse_sd": 0.7,
+    "score": 2.95,
+    "score_sd": 0.28
+   },
+   "DS05": {
+    "rmse": 8.53,
+    "rmse_sd": 0.41,
+    "score": 0.96,
+    "score_sd": 0.06
+   },
+   "DS06": {
+    "rmse": 8.62,
+    "rmse_sd": 0.27,
+    "score": 0.97,
+    "score_sd": 0.05
+   },
+   "DS07": {
+    "rmse": 11.81,
+    "rmse_sd": 0.51,
+    "score": 1.45,
+    "score_sd": 0.19
+   },
+   "Avg": {
+    "rmse": 9.31,
+    "rmse_sd": 0.46,
+    "score": 1.31,
+    "score_sd": 0.23
+   }
+  },
+  "LSTM": {
+   "DS01": {
+    "rmse": 7.91,
+    "rmse_sd": 1.02,
+    "score": 1.04,
+    "score_sd": 1.01
+   },
+   "DS02": {
+    "rmse": 6.25,
+    "rmse_sd": 0.65,
+    "score": 0.74,
+    "score_sd": 0.01
+   },
+   "DS03": {
+    "rmse": 7.82,
+    "rmse_sd": 0.13,
+    "score": 0.8,
+    "score_sd": 0.05
+   },
+   "DS04": {
+    "rmse": 11.86,
+    "rmse_sd": 0.28,
+    "score": 3.57,
+    "score_sd": 0.35
+   },
+   "DS05": {
+    "rmse": 8.21,
+    "rmse_sd": 0.51,
+    "score": 0.83,
+    "score_sd": 0.39
+   },
+   "DS06": {
+    "rmse": 7.77,
+    "rmse_sd": 0.13,
+    "score": 0.78,
+    "score_sd": 0.02
+   },
+   "DS07": {
+    "rmse": 11.93,
+    "rmse_sd": 1.01,
+    "score": 1.47,
+    "score_sd": 0.23
+   },
+   "Avg": {
+    "rmse": 8.85,
+    "rmse_sd": 0.39,
+    "score": 1.32,
+    "score_sd": 0.29
+   }
+  },
+  "Transformer": {
+   "DS01": {
+    "rmse": 13.2,
+    "rmse_sd": 5.67,
+    "score": 7.66,
+    "score_sd": 3.97
+   },
+   "DS02": {
+    "rmse": 11.53,
+    "rmse_sd": 2.18,
+    "score": 2.99,
+    "score_sd": 1.61
+   },
+   "DS03": {
+    "rmse": 14.51,
+    "rmse_sd": 1.86,
+    "score": 4.07,
+    "score_sd": 2.48
+   },
+   "DS04": {
+    "rmse": 23.19,
+    "rmse_sd": 2.25,
+    "score": 19.71,
+    "score_sd": 3.78
+   },
+   "DS05": {
+    "rmse": 13.78,
+    "rmse_sd": 3.12,
+    "score": 4.03,
+    "score_sd": 1.18
+   },
+   "DS06": {
+    "rmse": 15.37,
+    "rmse_sd": 2.79,
+    "score": 4.82,
+    "score_sd": 2.41
+   },
+   "DS07": {
+    "rmse": 14.35,
+    "rmse_sd": 3.33,
+    "score": 2.74,
+    "score_sd": 1.73
+   },
+   "Avg": {
+    "rmse": 15.13,
+    "rmse_sd": 2.89,
+    "score": 6.57,
+    "score_sd": 2.45
+   }
+  },
+  "AutoFormer": {
+   "DS01": {
+    "rmse": 15.83,
+    "rmse_sd": 1.24,
+    "score": 4.2,
+    "score_sd": 1.23
+   },
+   "DS02": {
+    "rmse": 13.37,
+    "rmse_sd": 1.58,
+    "score": 2.93,
+    "score_sd": 0.42
+   },
+   "DS03": {
+    "rmse": 19.78,
+    "rmse_sd": 4.17,
+    "score": 6.53,
+    "score_sd": 3.61
+   },
+   "DS04": {
+    "rmse": 24.15,
+    "rmse_sd": 1.35,
+    "score": 10.24,
+    "score_sd": 1.63
+   },
+   "DS05": {
+    "rmse": 23.89,
+    "rmse_sd": 4.21,
+    "score": 13.8,
+    "score_sd": 1.63
+   },
+   "DS06": {
+    "rmse": 21.55,
+    "rmse_sd": 1.96,
+    "score": 7.92,
+    "score_sd": 0.97
+   },
+   "DS07": {
+    "rmse": 19.15,
+    "rmse_sd": 1.16,
+    "score": 6.89,
+    "score_sd": 1.36
+   },
+   "Avg": {
+    "rmse": 19.67,
+    "rmse_sd": 2.24,
+    "score": 7.5,
+    "score_sd": 1.55
+   }
+  },
+  "PatchTST": {
+   "DS01": {
+    "rmse": 20.2,
+    "rmse_sd": 1.89,
+    "score": 29.84,
+    "score_sd": 0.62
+   },
+   "DS02": {
+    "rmse": 19.96,
+    "rmse_sd": 1.85,
+    "score": 7.57,
+    "score_sd": 0.77
+   },
+   "DS03": {
+    "rmse": 20.85,
+    "rmse_sd": 1.03,
+    "score": 6.8,
+    "score_sd": 0.09
+   },
+   "DS04": {
+    "rmse": 24.48,
+    "rmse_sd": 2.03,
+    "score": 11.6,
+    "score_sd": 1.26
+   },
+   "DS05": {
+    "rmse": 23.26,
+    "rmse_sd": 1.98,
+    "score": 9.41,
+    "score_sd": 0.26
+   },
+   "DS06": {
+    "rmse": 24.84,
+    "rmse_sd": 1.88,
+    "score": 14.62,
+    "score_sd": 0.63
+   },
+   "DS07": {
+    "rmse": 24.68,
+    "rmse_sd": 1.25,
+    "score": 9.97,
+    "score_sd": 0.41
+   },
+   "Avg": {
+    "rmse": 22.61,
+    "rmse_sd": 0.0,
+    "score": 12.83,
+    "score_sd": 0.58
+   }
+  },
+  "DA-Transformer": {
+   "DS01": {
+    "rmse": 19.95,
+    "rmse_sd": 2.22,
+    "score": 13.18,
+    "score_sd": 8.62
+   },
+   "DS02": {
+    "rmse": 17.08,
+    "rmse_sd": 2.82,
+    "score": 9.15,
+    "score_sd": 4.67
+   },
+   "DS03": {
+    "rmse": 15.97,
+    "rmse_sd": 2.36,
+    "score": 5.71,
+    "score_sd": 4.32
+   },
+   "DS04": {
+    "rmse": 24.37,
+    "rmse_sd": 5.08,
+    "score": 15.39,
+    "score_sd": 3.9
+   },
+   "DS05": {
+    "rmse": 20.85,
+    "rmse_sd": 4.21,
+    "score": 9.78,
+    "score_sd": 2.09
+   },
+   "DS06": {
+    "rmse": 14.17,
+    "rmse_sd": 4.45,
+    "score": 4.57,
+    "score_sd": 2.74
+   },
+   "DS07": {
+    "rmse": 13.47,
+    "rmse_sd": 2.79,
+    "score": 3.12,
+    "score_sd": 3.37
+   },
+   "Avg": {
+    "rmse": 17.98,
+    "rmse_sd": 3.42,
+    "score": 8.7,
+    "score_sd": 3.82
+   }
+  },
+  "PINN": {
+   "DS01": {
+    "rmse": 24.42,
+    "rmse_sd": 0.78,
+    "score": 12.2,
+    "score_sd": 4.2
+   },
+   "DS02": {
+    "rmse": 19.35,
+    "rmse_sd": 2.57,
+    "score": 9.64,
+    "score_sd": 3.67
+   },
+   "DS03": {
+    "rmse": 21.21,
+    "rmse_sd": 3.35,
+    "score": 7.03,
+    "score_sd": 3.43
+   },
+   "DS04": {
+    "rmse": 18.69,
+    "rmse_sd": 0.53,
+    "score": 12.41,
+    "score_sd": 0.03
+   },
+   "DS05": {
+    "rmse": 23.24,
+    "rmse_sd": 0.25,
+    "score": 8.83,
+    "score_sd": 0.14
+   },
+   "DS06": {
+    "rmse": 23.67,
+    "rmse_sd": 6.44,
+    "score": 8.66,
+    "score_sd": 4.28
+   },
+   "DS07": {
+    "rmse": 25.51,
+    "rmse_sd": 2.3,
+    "score": 10.07,
+    "score_sd": 4.02
+   },
+   "Avg": {
+    "rmse": 22.3,
+    "rmse_sd": 2.32,
+    "score": 9.83,
+    "score_sd": 2.82
+   }
+  },
+  "Dual-Mixer": {
+   "DS01": {
+    "rmse": 7.34,
+    "rmse_sd": 0.21,
+    "score": 0.89,
+    "score_sd": 0.01
+   },
+   "DS02": {
+    "rmse": 6.98,
+    "rmse_sd": 0.49,
+    "score": 0.89,
+    "score_sd": 0.33
+   },
+   "DS03": {
+    "rmse": 7.44,
+    "rmse_sd": 0.03,
+    "score": 0.81,
+    "score_sd": 0.43
+   },
+   "DS04": {
+    "rmse": 12.09,
+    "rmse_sd": 0.96,
+    "score": 2.6,
+    "score_sd": 0.41
+   },
+   "DS05": {
+    "rmse": 7.52,
+    "rmse_sd": 0.06,
+    "score": 0.72,
+    "score_sd": 0.03
+   },
+   "DS06": {
+    "rmse": 8.47,
+    "rmse_sd": 0.07,
+    "score": 0.83,
+    "score_sd": 0.02
+   },
+   "DS07": {
+    "rmse": 12.13,
+    "rmse_sd": 0.21,
+    "score": 1.51,
+    "score_sd": 0.23
+   },
+   "Avg": {
+    "rmse": 8.85,
+    "rmse_sd": 0.29,
+    "score": 1.18,
+    "score_sd": 0.21
+   }
+  },
+  "SDAGCN": {
+   "DS01": {
+    "rmse": 11.9,
+    "rmse_sd": 0.25,
+    "score": 2.94,
+    "score_sd": 0.03
+   },
+   "DS02": {
+    "rmse": 11.12,
+    "rmse_sd": 1.3,
+    "score": 1.76,
+    "score_sd": 0.97
+   },
+   "DS03": {
+    "rmse": 11.64,
+    "rmse_sd": 0.54,
+    "score": 1.74,
+    "score_sd": 0.23
+   },
+   "DS04": {
+    "rmse": 19.16,
+    "rmse_sd": 0.53,
+    "score": 7.73,
+    "score_sd": 0.03
+   },
+   "DS05": {
+    "rmse": 14.32,
+    "rmse_sd": 0.25,
+    "score": 3.07,
+    "score_sd": 0.64
+   },
+   "DS06": {
+    "rmse": 17.81,
+    "rmse_sd": 6.44,
+    "score": 5.05,
+    "score_sd": 4.28
+   },
+   "DS07": {
+    "rmse": 16.27,
+    "rmse_sd": 2.3,
+    "score": 5.22,
+    "score_sd": 4.02
+   },
+   "Avg": {
+    "rmse": 14.6,
+    "rmse_sd": 1.66,
+    "score": 3.93,
+    "score_sd": 1.46
+   }
+  },
+  "CDSG": {
+   "DS01": {
+    "rmse": 8.81,
+    "rmse_sd": 0.1,
+    "score": 1.41,
+    "score_sd": 0.03
+   },
+   "DS02": {
+    "rmse": 7.69,
+    "rmse_sd": 0.73,
+    "score": 1.15,
+    "score_sd": 0.41
+   },
+   "DS03": {
+    "rmse": 8.27,
+    "rmse_sd": 0.14,
+    "score": 0.94,
+    "score_sd": 0.11
+   },
+   "DS04": {
+    "rmse": 18.54,
+    "rmse_sd": 0.98,
+    "score": 4.85,
+    "score_sd": 0.57
+   },
+   "DS05": {
+    "rmse": 11.92,
+    "rmse_sd": 0.44,
+    "score": 1.17,
+    "score_sd": 0.73
+   },
+   "DS06": {
+    "rmse": 10.76,
+    "rmse_sd": 0.13,
+    "score": 1.38,
+    "score_sd": 0.02
+   },
+   "DS07": {
+    "rmse": 12.5,
+    "rmse_sd": 0.35,
+    "score": 1.65,
+    "score_sd": 0.21
+   },
+   "Avg": {
+    "rmse": 11.21,
+    "rmse_sd": 0.41,
+    "score": 1.79,
+    "score_sd": 0.3
+   }
+  },
+  "FCSTGNN": {
+   "DS01": {
+    "rmse": 10.52,
+    "rmse_sd": 1.32,
+    "score": 1.58,
+    "score_sd": 0.92
+   },
+   "DS02": {
+    "rmse": 7.02,
+    "rmse_sd": 0.67,
+    "score": 1.03,
+    "score_sd": 0.17
+   },
+   "DS03": {
+    "rmse": 9.54,
+    "rmse_sd": 0.48,
+    "score": 1.16,
+    "score_sd": 0.21
+   },
+   "DS04": {
+    "rmse": 15.68,
+    "rmse_sd": 1.27,
+    "score": 3.73,
+    "score_sd": 0.09
+   },
+   "DS05": {
+    "rmse": 11.78,
+    "rmse_sd": 0.9,
+    "score": 1.76,
+    "score_sd": 0.43
+   },
+   "DS06": {
+    "rmse": 10.47,
+    "rmse_sd": 0.23,
+    "score": 1.38,
+    "score_sd": 0.34
+   },
+   "DS07": {
+    "rmse": 12.73,
+    "rmse_sd": 1.02,
+    "score": 1.73,
+    "score_sd": 0.55
+   },
+   "Avg": {
+    "rmse": 11.1,
+    "rmse_sd": 0.84,
+    "score": 1.77,
+    "score_sd": 0.39
+   }
+  },
+  "AIDGN": {
+   "DS01": {
+    "rmse": 5.51,
+    "rmse_sd": 0.89,
+    "score": 0.61,
+    "score_sd": 0.37
+   },
+   "DS02": {
+    "rmse": 7.63,
+    "rmse_sd": 1.03,
+    "score": 1.03,
+    "score_sd": 0.63
+   },
+   "DS03": {
+    "rmse": 7.05,
+    "rmse_sd": 0.17,
+    "score": 0.77,
+    "score_sd": 0.02
+   },
+   "DS04": {
+    "rmse": 8.31,
+    "rmse_sd": 0.02,
+    "score": 0.98,
+    "score_sd": 0.01
+   },
+   "DS05": {
+    "rmse": 7.18,
+    "rmse_sd": 0.47,
+    "score": 0.81,
+    "score_sd": 0.08
+   },
+   "DS06": {
+    "rmse": 5.7,
+    "rmse_sd": 0.16,
+    "score": 0.57,
+    "score_sd": 0.03
+   },
+   "DS07": {
+    "rmse": 10.71,
+    "rmse_sd": 0.46,
+    "score": 1.18,
+    "score_sd": 0.13
+   },
+   "Avg": {
+    "rmse": 7.44,
+    "rmse_sd": 0.46,
+    "score": 0.85,
+    "score_sd": 0.18
+   }
+  }
+ },
+ "CMAPSS_ablation": {
+  "Proposed aging": {
+   "FD001": {
+    "rmse": 11.46,
+    "score": 248.49
+   },
+   "FD002": {
+    "rmse": 12.63,
+    "score": 663.8
+   },
+   "FD003": {
+    "rmse": 10.52,
+    "score": 202.87
+   },
+   "FD004": {
+    "rmse": 13.03,
+    "score": 762.25
+   }
+  },
+  "PCA prior": {
+   "FD001": {
+    "rmse": 12.81,
+    "score": 272.44
+   },
+   "FD002": {
+    "rmse": 12.78,
+    "score": 682.79
+   },
+   "FD003": {
+    "rmse": 11.96,
+    "score": 211.07
+   },
+   "FD004": {
+    "rmse": 13.62,
+    "score": 826.19
+   }
+  },
+  "Feature-mean prior": {
+   "FD001": {
+    "rmse": 11.62,
+    "score": 221.91
+   },
+   "FD002": {
+    "rmse": 13.1,
+    "score": 691.36
+   },
+   "FD003": {
+    "rmse": 11.37,
+    "score": 238.08
+   },
+   "FD004": {
+    "rmse": 14.73,
+    "score": 997.2
+   }
+  },
+  "Pos. encoding prior": {
+   "FD001": {
+    "rmse": 12.57,
+    "score": 281.94
+   },
+   "FD002": {
+    "rmse": 13.27,
+    "score": 706.72
+   },
+   "FD003": {
+    "rmse": 12.01,
+    "score": 255.69
+   },
+   "FD004": {
+    "rmse": 14.58,
+    "score": 951.07
+   }
+  },
+  "No residual": {
+   "FD001": {
+    "rmse": 12.12,
+    "score": 269.53
+   },
+   "FD002": {
+    "rmse": 13.67,
+    "score": 725.74
+   },
+   "FD003": {
+    "rmse": 11.86,
+    "score": 235.89
+   },
+   "FD004": {
+    "rmse": 14.8,
+    "score": 954.66
+   }
+  },
+  "Single-path ADGC": {
+   "FD001": {
+    "rmse": 12.85,
+    "score": 324.95
+   },
+   "FD002": {
+    "rmse": 13.02,
+    "score": 715.4
+   },
+   "FD003": {
+    "rmse": 10.88,
+    "score": 232.87
+   },
+   "FD004": {
+    "rmse": 14.46,
+    "score": 949.83
+   }
+  },
+  "Aging-free": {
+   "FD001": {
+    "rmse": 12.08,
+    "score": 262.98
+   },
+   "FD002": {
+    "rmse": 13.11,
+    "score": 741.05
+   },
+   "FD003": {
+    "rmse": 12.09,
+    "score": 256.74
+   },
+   "FD004": {
+    "rmse": 14.55,
+    "score": 941.67
+   }
+  },
+  "Aging as aux. input": {
+   "FD001": {
+    "rmse": 12.67,
+    "score": 313.59
+   },
+   "FD002": {
+    "rmse": 13.17,
+    "score": 742.06
+   },
+   "FD003": {
+    "rmse": 11.92,
+    "score": 256.07
+   },
+   "FD004": {
+    "rmse": 14.92,
+    "score": 1019.28
+   }
+  },
+  "Feat.-similarity encoder": {
+   "FD001": {
+    "rmse": 12.67,
+    "score": 276.59
+   },
+   "FD002": {
+    "rmse": 13.18,
+    "score": 772.06
+   },
+   "FD003": {
+    "rmse": 12.22,
+    "score": 240.0
+   },
+   "FD004": {
+    "rmse": 14.65,
+    "score": 994.22
+   }
+  },
+  "Transformer encoder": {
+   "FD001": {
+    "rmse": 12.48,
+    "score": 255.89
+   },
+   "FD002": {
+    "rmse": 14.99,
+    "score": 833.77
+   },
+   "FD003": {
+    "rmse": 11.63,
+    "score": 254.53
+   },
+   "FD004": {
+    "rmse": 14.09,
+    "score": 1002.62
+   }
+  }
+ }
+}

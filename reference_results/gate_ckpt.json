@@ -1,0 +1,50 @@
+{
+ "FD001": {
+  "ours_rmse": 11.266887664794922,
+  "ours_score": 220.69387817382812,
+  "released_npz_rmse": 11.266884803771973,
+  "released_npz_score": 220.6936492919922,
+  "max_abs_pred_diff_vs_npz": 3.0517578125e-05,
+  "labels_identical": true,
+  "age_zeroed_rmse": 15.862054824829102,
+  "age_zeroed_score": 343.2158508300781,
+  "printed_rmse": 11.46,
+  "printed_score": 248.49
+ },
+ "FD002": {
+  "ours_rmse": 12.64144515991211,
+  "ours_score": 728.6910400390625,
+  "released_npz_rmse": 12.64144515991211,
+  "released_npz_score": 728.6907958984375,
+  "max_abs_pred_diff_vs_npz": 6.103515625e-05,
+  "labels_identical": true,
+  "age_zeroed_rmse": 14.45042896270752,
+  "age_zeroed_score": 827.141357421875,
+  "printed_rmse": 12.63,
+  "printed_score": 663.8
+ },
+ "FD003": {
+  "ours_rmse": 10.166598320007324,
+  "ours_score": 198.212890625,
+  "released_npz_rmse": 10.166600227355957,
+  "released_npz_score": 198.2129669189453,
+  "max_abs_pred_diff_vs_npz": 4.57763671875e-05,
+  "labels_identical": true,
+  "age_zeroed_rmse": 14.57848072052002,
+  "age_zeroed_score": 306.72052001953125,
+  "printed_rmse": 10.52,
+  "printed_score": 202.87
+ },
+ "FD004": {
+  "ours_rmse": 13.026506423950195,
+  "ours_score": 763.5941162109375,
+  "released_npz_rmse": 13.026506423950195,
+  "released_npz_score": 763.59423828125,
+  "max_abs_pred_diff_vs_npz": 3.24249267578125e-05,
+  "labels_identical": true,
+  "age_zeroed_rmse": 15.19540786743164,
+  "age_zeroed_score": 915.67041015625,
+  "printed_rmse": 13.03,
+  "printed_score": 762.25
+ }
+}

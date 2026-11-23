@@ -1,0 +1,19 @@
+{
+ "aidgn_cuda_ms": 1.504891165997833,
+ "student_cuda_ms": 0.49320579797495157,
+ "nets5fold_cuda_ms": 21.232049679965712,
+ "aidgn_cpu_ms": 13.676505511975847,
+ "student_cpu_ms": 3.1119544480461627,
+ "nets5fold_cpu_ms": 323.9958245801972,
+ "aidgn_params": 30070,
+ "student_params": 19265,
+ "expert_params": {
+  "aidgna": 32534,
+  "cnn": 19265,
+  "gru": 22529
+ },
+ "lgbm5fold_cpu_ms": 40.28942576027475,
+ "lgbm_trees": 600,
+ "tabpfn5fold_cuda_ms": 19015.09756980231,
+ "tabpfn_params": 11081864
+}

@@ -1,0 +1,1 @@
+{"ds": "DS01", "rmse": 5.289291858673096, "score_mean": 0.5751010775566101, "n_windows": 27333, "released_n": 27333, "released_rmse": 5.289443492889404, "released_score_mean": 0.5751287937164307, "label_multiset_equal": true}

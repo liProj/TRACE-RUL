@@ -1,0 +1,1 @@
+{"inner_val_rmse": {"aidgna": [NaN, NaN, NaN, NaN, NaN, NaN], "cnn": [NaN, NaN, NaN, NaN, NaN, NaN], "gru": [NaN, NaN, NaN, NaN, NaN, NaN], "lgbm": [NaN, NaN, NaN, NaN, NaN, NaN]}, "minutes": 32.47494739691417, "groups": [[1], [2], [3], [4], [5], [6]]}

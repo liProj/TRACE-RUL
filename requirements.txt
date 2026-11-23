@@ -1,0 +1,10 @@
+# Core runtime; reconstructed from imports, not an original environment lock.
+numpy
+pandas
+scipy
+scikit-learn
+lightgbm
+h5py
+numba
+matplotlib
+# Install torch separately for the intended CPU / CUDA platform.

@@ -1,0 +1,3 @@
+# Optional legacy report utilities.
+python-docx
+openpyxl

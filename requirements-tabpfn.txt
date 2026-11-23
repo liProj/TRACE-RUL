@@ -1,0 +1,2 @@
+# The code requires the TabPFN v2 API and v2 regressor checkpoint.
+tabpfn>=2,<3
